@@ -72,14 +72,8 @@ Works on all modern browsers that support:
 - [ ] Due dates for tasks
 - [ ] Dark mode theme
 
-## License
-
-This project is open source and available under the MIT License.
-
-## Author
 
 Created by [srinureddy01](https://github.com/srinureddy01)
 
 ---
 
-Enjoy organizing your tasks! 📝
